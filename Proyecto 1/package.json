@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.0",
+  "description": "Proyecto uno basado en una funcion que devuelva las llaves y los valores de un objeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Objecto",
+    "Llave",
+    "key",
+    "value",
+    "valor"
+  ],
+  "author": "Byron Figueroa",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
